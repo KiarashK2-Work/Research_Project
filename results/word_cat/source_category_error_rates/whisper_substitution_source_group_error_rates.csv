@@ -1,0 +1,7 @@
+model,speech_type,pos_group,error_count,reference_count,category_error_rate,category_error_rate_ci_lower,category_error_rate_ci_upper
+whisper,read,open_class,6229,21958,0.283678,0.277715,0.289640
+whisper,read,closed_class,2757,19315,0.142739,0.137806,0.147672
+whisper,read,other,134,350,0.382857,0.331932,0.433782
+whisper,HMI,open_class,2996,11217,0.267095,0.258907,0.275283
+whisper,HMI,closed_class,1587,8765,0.181061,0.172999,0.189123
+whisper,HMI,other,122,294,0.414966,0.358644,0.471288

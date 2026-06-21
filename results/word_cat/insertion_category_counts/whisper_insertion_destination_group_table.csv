@@ -1,0 +1,7 @@
+model,speech_type,destination_group,count,percentage,total_insertions
+whisper,HMI,open_class,557,39.7857,1400
+whisper,HMI,closed_class,830,59.2857,1400
+whisper,HMI,other,13,0.9286,1400
+whisper,read,open_class,712,43.0472,1654
+whisper,read,closed_class,899,54.3531,1654
+whisper,read,other,43,2.5998,1654

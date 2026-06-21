@@ -1,0 +1,10 @@
+speech,model,cef,pos_group,count,percentage
+read,whisper,A1,open_class,4619,52.3399
+read,whisper,A1,closed_class,4110,46.5722
+read,whisper,A1,other,96,1.0878
+read,whisper,A2,open_class,12410,52.9143
+read,whisper,A2,closed_class,10865,46.3267
+read,whisper,A2,other,178,0.759
+read,whisper,B1,open_class,4373,52.5033
+read,whisper,B1,closed_class,3906,46.8964
+read,whisper,B1,other,50,0.6003

@@ -1,0 +1,10 @@
+speech,model,cef,error_type,pos_group,error_count,reference_count,category_error_rate,category_error_rate_ci_lower,category_error_rate_ci_upper
+hmi,chirp,A1,substitution,open_class,480,2268,0.21164,0.194829,0.228451
+hmi,chirp,A1,substitution,closed_class,305,1646,0.185298,0.166527,0.204068
+hmi,chirp,A1,substitution,other,21,71,0.295775,0.189614,0.401935
+hmi,chirp,A2,substitution,open_class,1324,5436,0.243561,0.232151,0.254972
+hmi,chirp,A2,substitution,closed_class,570,4055,0.140567,0.129869,0.151265
+hmi,chirp,A2,substitution,other,63,129,0.488372,0.402111,0.574633
+hmi,chirp,B1,substitution,open_class,655,3066,0.213633,0.199125,0.228142
+hmi,chirp,B1,substitution,closed_class,401,2735,0.146618,0.133361,0.159875
+hmi,chirp,B1,substitution,other,26,64,0.40625,0.285923,0.526577

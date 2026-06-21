@@ -1,0 +1,10 @@
+speech,model,cef,error_type,pos_group,error_count,reference_count,category_error_rate,category_error_rate_ci_lower,category_error_rate_ci_upper
+read,chirp,A1,deletion,open_class,246,4619,0.053258,0.046783,0.059734
+read,chirp,A1,deletion,closed_class,158,4110,0.038443,0.032565,0.044321
+read,chirp,A1,deletion,other,61,96,0.635417,0.539134,0.731699
+read,chirp,A2,deletion,open_class,706,12410,0.05689,0.052814,0.060965
+read,chirp,A2,deletion,closed_class,424,10865,0.039024,0.035383,0.042666
+read,chirp,A2,deletion,other,92,178,0.516854,0.443442,0.590266
+read,chirp,B1,deletion,open_class,173,4373,0.039561,0.033784,0.045338
+read,chirp,B1,deletion,closed_class,134,3906,0.034306,0.028598,0.040014
+read,chirp,B1,deletion,other,28,50,0.56,0.422409,0.697591

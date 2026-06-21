@@ -1,0 +1,7 @@
+model,speech_type,destination_group,count,percentage,total_insertions
+chirp,HMI,open_class,419,44.1053,950
+chirp,HMI,closed_class,517,54.4211,950
+chirp,HMI,other,14,1.4737,950
+chirp,read,open_class,474,45.4023,1044
+chirp,read,closed_class,556,53.2567,1044
+chirp,read,other,14,1.3410,1044

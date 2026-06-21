@@ -1,0 +1,10 @@
+speech,model,cef,destination_pos_category,count,percentage
+read,chirp,A1,open_class,120,50.6329
+read,chirp,A1,closed_class,109,45.9916
+read,chirp,A1,other,8,3.3755
+read,chirp,A2,open_class,222,42.6923
+read,chirp,A2,closed_class,296,56.9231
+read,chirp,A2,other,2,0.3846
+read,chirp,B1,open_class,89,40.4545
+read,chirp,B1,closed_class,128,58.1818
+read,chirp,B1,other,3,1.3636

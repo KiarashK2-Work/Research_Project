@@ -1,0 +1,10 @@
+speech,model,cef,source_pos_category,count,percentage
+hmi,chirp,A1,open_class,199,56.3739
+hmi,chirp,A1,closed_class,108,30.5949
+hmi,chirp,A1,other,46,13.0312
+hmi,chirp,A2,open_class,314,46.3127
+hmi,chirp,A2,closed_class,315,46.4602
+hmi,chirp,A2,other,49,7.2271
+hmi,chirp,B1,open_class,156,46.8468
+hmi,chirp,B1,closed_class,153,45.9459
+hmi,chirp,B1,other,24,7.2072

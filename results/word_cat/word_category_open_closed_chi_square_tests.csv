@@ -1,0 +1,13 @@
+model,speech_type,error_type,comparison,test_type,denominator_type,open_class_error_count,open_class_total,open_class_rate,closed_class_error_count,closed_class_total,closed_class_rate,rate_difference_open_minus_closed,chi_square,df,p_value,significant,significance
+chirp,read,deletion_source,open_class_vs_closed_class,chi_square_independence_2x2,reference_count,1183,21958,0.053876,735,19315,0.038053,0.015822,58.055280,1,2.548544354e-14,True,***
+chirp,read,substitution_source,open_class_vs_closed_class,chi_square_independence_2x2,reference_count,5379,21958,0.244968,2575,19315,0.133316,0.111652,823.390419,1,4.432548515e-181,True,***
+chirp,read,insertion_destination,open_class_vs_closed_class,chi_square_goodness_of_fit_50_50,open_closed_insertions,474,1030,0.460194,556,1030,0.539806,-0.079612,6.528155,1,0.01061800169,True,*
+chirp,HMI,deletion_source,open_class_vs_closed_class,chi_square_independence_2x2,reference_count,721,11217,0.064277,625,8765,0.071306,-0.007029,3.869404,1,0.0491739837,True,*
+chirp,HMI,substitution_source,open_class_vs_closed_class,chi_square_independence_2x2,reference_count,2577,11217,0.229741,1352,8765,0.154250,0.075491,177.507390,1,1.696988285e-40,True,***
+chirp,HMI,insertion_destination,open_class_vs_closed_class,chi_square_goodness_of_fit_50_50,open_closed_insertions,419,936,0.447650,517,936,0.552350,-0.104701,10.260684,1,0.001358953034,True,**
+whisper,read,deletion_source,open_class_vs_closed_class,chi_square_independence_2x2,reference_count,1173,21958,0.053420,824,19315,0.042661,0.010759,25.834126,1,3.720519172e-07,True,***
+whisper,read,substitution_source,open_class_vs_closed_class,chi_square_independence_2x2,reference_count,6229,21958,0.283678,2757,19315,0.142739,0.140939,1198.457325,1,1.31997476e-262,True,***
+whisper,read,insertion_destination,open_class_vs_closed_class,chi_square_goodness_of_fit_50_50,open_closed_insertions,712,1611,0.441962,899,1611,0.558038,-0.116077,21.706394,1,3.177305617e-06,True,***
+whisper,HMI,deletion_source,open_class_vs_closed_class,chi_square_independence_2x2,reference_count,825,11217,0.073549,751,8765,0.085682,-0.012133,9.969205,1,0.001591802071,True,**
+whisper,HMI,substitution_source,open_class_vs_closed_class,chi_square_independence_2x2,reference_count,2996,11217,0.267095,1587,8765,0.181061,0.086034,206.044445,1,1.002061036e-46,True,***
+whisper,HMI,insertion_destination,open_class_vs_closed_class,chi_square_goodness_of_fit_50_50,open_closed_insertions,557,1387,0.401586,830,1387,0.598414,-0.196828,53.733958,1,2.295609537e-13,True,***

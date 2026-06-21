@@ -1,0 +1,7 @@
+model,speech_type,pos_group,error_count,reference_count,category_error_rate,category_error_rate_ci_lower,category_error_rate_ci_upper
+chirp,read,open_class,5379,21958,0.244968,0.239279,0.250656
+chirp,read,closed_class,2575,19315,0.133316,0.128522,0.138110
+chirp,read,other,131,350,0.374286,0.323585,0.424986
+chirp,HMI,open_class,2577,11217,0.229741,0.221956,0.237526
+chirp,HMI,closed_class,1352,8765,0.154250,0.146688,0.161811
+chirp,HMI,other,118,294,0.401361,0.345329,0.457392

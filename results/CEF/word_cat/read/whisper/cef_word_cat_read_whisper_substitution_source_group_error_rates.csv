@@ -1,0 +1,10 @@
+speech,model,cef,error_type,pos_group,error_count,reference_count,category_error_rate,category_error_rate_ci_lower,category_error_rate_ci_upper
+read,whisper,A1,substitution,open_class,1387,4619,0.300281,0.287062,0.313501
+read,whisper,A1,substitution,closed_class,617,4110,0.150122,0.139201,0.161042
+read,whisper,A1,substitution,other,31,96,0.322917,0.229379,0.416454
+read,whisper,A2,substitution,open_class,3562,12410,0.287027,0.279067,0.294986
+read,whisper,A2,substitution,closed_class,1524,10865,0.140267,0.133737,0.146797
+read,whisper,A2,substitution,other,70,178,0.393258,0.321498,0.465019
+read,whisper,B1,substitution,open_class,1096,4373,0.250629,0.237784,0.263474
+read,whisper,B1,substitution,closed_class,506,3906,0.129544,0.119013,0.140075
+read,whisper,B1,substitution,other,21,50,0.42,0.283193,0.556807

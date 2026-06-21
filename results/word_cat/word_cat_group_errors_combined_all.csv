@@ -1,0 +1,13 @@
+speech_type,model,pos_group,deletion_source_count,substitution_source_count,substitution_destination_count,insertion_destination_count
+hmi,chirp,open_class,721,2577,2234,419
+hmi,chirp,closed_class,625,1352,1680,517
+hmi,chirp,other,140,118,133,14
+hmi,whisper,open_class,825,2996,2762,557
+hmi,whisper,closed_class,751,1587,1881,830
+hmi,whisper,other,139,122,62,13
+read,chirp,open_class,1183,5379,5122,474
+read,chirp,closed_class,735,2575,2770,556
+read,chirp,other,194,131,193,14
+read,whisper,open_class,1173,6229,6005,712
+read,whisper,closed_class,824,2757,2949,899
+read,whisper,other,187,134,166,43
