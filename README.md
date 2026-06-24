@@ -1,7 +1,6 @@
 # Linguistic sources of performance disparities in Dutch Automatic Speech Recognition for non-native adults
 
-This repository contains the research project for my bachelor's thesis at TU
-Delft.
+This repository contains my bachelor's thesis as part of the [Research Project](https://github.com/TU-Delft-CSE/Research-Project) at [TU Delft](https://github.com/TU-Delft-CSE).
 
 **Author:** Kiarash Karimi <makarimi@tudelft.nl>
 
